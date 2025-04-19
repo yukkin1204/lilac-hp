@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/lilac-hp/static/css/main.f855e6bc.css",
-    "main.js": "/lilac-hp/static/js/main.ef7d4312.js",
+    "main.js": "/lilac-hp/static/js/main.9203cad0.js",
     "static/js/453.18e11df3.chunk.js": "/lilac-hp/static/js/453.18e11df3.chunk.js",
     "static/media/logo.svg": "/lilac-hp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/lilac-hp/index.html",
     "main.f855e6bc.css.map": "/lilac-hp/static/css/main.f855e6bc.css.map",
-    "main.ef7d4312.js.map": "/lilac-hp/static/js/main.ef7d4312.js.map",
+    "main.9203cad0.js.map": "/lilac-hp/static/js/main.9203cad0.js.map",
     "453.18e11df3.chunk.js.map": "/lilac-hp/static/js/453.18e11df3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.ef7d4312.js"
+    "static/js/main.9203cad0.js"
   ]
 }
